@@ -4,4 +4,5 @@ The "Machine Learning Techniques" Workshop is conducted as a part of the "Machin
 
 Contents:
 1. [K Means Clustering](K_Means_Clustering.ipynb)
-2. [Support Vector Machines](https://youtu.be/IjSfa7Q8ngs?si=Kat1jMRHp_HvGzlJ)
+2. [Support Vector Machines](Support_Vector_Machines.ipynb)
+   - [Soft Margin SVM](Soft_margin_SVM.ipynb) : Adapting the SVM code for Soft Margin SVM
