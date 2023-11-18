@@ -6,3 +6,4 @@ Contents:
 1. [K Means Clustering](K_Means_Clustering.ipynb)
 2. [Support Vector Machines](Support_Vector_Machines.ipynb)
    - [Soft Margin SVM](Soft_margin_SVM.ipynb) : Adapting the SVM code for Soft Margin SVM
+3. [Perceptron](Perceptron.ipynb)
